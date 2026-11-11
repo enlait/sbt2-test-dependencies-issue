@@ -1,0 +1,8 @@
+**/target/
+**/project/project/
+.sbt-local-cache/
+.sbt-meta-build-cache/
+.bsp/
+.bloop/
+metals.sbt/
+digests-*.txt
